@@ -9,5 +9,6 @@ namespace Sample.Models
     {
         public int id { get; set; }
         public string Description { get; set; }
+        public int unit { get; set; }
     }
 }
